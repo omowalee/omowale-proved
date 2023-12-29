@@ -1,0 +1,18 @@
+{
+  "name": "omowaleproved",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Numan Soylu",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+    "repository": {
+      "type": "git",
+      "url" : "https://github.com/omowalee/omowale-proved.git"
+    }
+}
